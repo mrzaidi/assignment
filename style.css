@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.forimg{
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.img1 img{
+    height: 200px;
+    width:300px;
+    cursor: pointer;
+}
+
+
+.big{
+    font-size: 30px;
+}
+.small{
+    font-size: 20px;
+}
